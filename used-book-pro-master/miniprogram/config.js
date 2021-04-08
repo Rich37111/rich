@@ -4,12 +4,12 @@ var data = {
       //分享配置
       share_title: '四川师范大学二手书',
       share_img: '/images/poster.jpg', //可以是网络地址，本地文件路径要填绝对位置
-      share_poster:'https://mmbiz.qpic.cn/mmbiz_jpg/nJPznPUZbhpA064Cl78xxvzBYTDa6O1Kl7RY1K6TerBaXcUf5AoN6x7s8q7xHgeu0Cl5qarPzE6ibbQZasWRErg/640',//必须为网络地址
+      share_poster:'https://7269-rich-4gbsq7ct21c19fbd-1304790203.tcb.qcloud.la/share/shareCode.png?sign=66056286937bf9a13f1149c330232fed&t=1617844332',//必须为网络地址
       //客服联系方式
       kefu: {
             weixin: 'RDZ-577',
             qq: '1660415124',
-            gzh: '', //公众号二维码必须为网络地址
+            gzh: 'https://7269-rich-4gbsq7ct21c19fbd-1304790203.tcb.qcloud.la/share/shareCode.png?sign=66056286937bf9a13f1149c330232fed&t=1617844332', //公众号二维码必须为网络地址
             phone: '' //如果你不设置电话客服，就留空
       },
       //默认启动页背景图，防止请求失败完全空白 

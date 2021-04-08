@@ -44,10 +44,9 @@
 
 .banner_image {
       width: 100%;
-      padding: 16rpx 16rpx 12rpx 16rpx;
       display: flex;
       box-sizing: border-box;
-      height: 160rpx;
+      height: 100%;
 }
 
 ::-webkit-scrollbar {
